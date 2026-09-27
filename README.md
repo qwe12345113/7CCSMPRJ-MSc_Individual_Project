@@ -204,3 +204,6 @@ learning_curve_20260806_123000/
 - Binary predictions use a sigmoid probability threshold of `0.5`.
 - Training time increases substantially with the number of subsets, folds, and epochs. A small subset and a low epoch limit can be used for an initial pipeline check.
 - Setting `num_workers=0` is often safer in notebook environments or on Windows, although a larger value may improve data-loading speed on other systems.
+
+## Reference
+Che, C., Wang, C., & Vercauteren, T. (2026, February 20). LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings. [[Data]](https://huggingface.co/datasets/visurg/LEMON)
