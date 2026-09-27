@@ -191,6 +191,10 @@ learning_curve_20260806_123000/
 └── ...
 ```
 
+## Qualitative Results
+
+![](./figure/supplementary_best_cases.png)
+
 ## Notes
 
 - The test set is evaluated separately and is not included in the K-fold train/validation splits.
