@@ -4,6 +4,8 @@
 
 This project provides a PyTorch training pipeline for binary semantic segmentation using a U-Net model. It supports aspect-ratio-preserving preprocessing, data augmentation, K-fold cross-validation, test-set evaluation, qualitative result visualisation, and learning-curve experiments with different fractions of the training data.
 
+![](./figure/methodological_framework.png)
+
 ## Project Files
 
 | File | Description |
